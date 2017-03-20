@@ -1,6 +1,5 @@
 /node_modules/
 /typings
-*.js
 lcov.info
 .tsConfig*.json
 html-report
